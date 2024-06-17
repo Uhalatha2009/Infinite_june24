@@ -1,0 +1,7 @@
+C:\Users\palepuu\source\repos\date 1\date 1\obj\Debug\date 1.csproj.AssemblyReference.cache
+C:\Users\palepuu\source\repos\date 1\date 1\obj\Debug\date 1.csproj.CoreCompileInputs.cache
+C:\Users\palepuu\source\repos\date 1\date 1\bin\Debug\date 1.exe.config
+C:\Users\palepuu\source\repos\date 1\date 1\bin\Debug\date 1.exe
+C:\Users\palepuu\source\repos\date 1\date 1\bin\Debug\date 1.pdb
+C:\Users\palepuu\source\repos\date 1\date 1\obj\Debug\date 1.exe
+C:\Users\palepuu\source\repos\date 1\date 1\obj\Debug\date 1.pdb
